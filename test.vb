@@ -1,5 +1,5 @@
-Dim PaulW as String = "Hi"
+Dim PaulW2 As String = "Hi"
 
-If PaulW = "Hi" Then
-	Console.WriteLine("Paul Rocks Still")
+If PaulW2 = "Hi" Then
+Console.WriteLine("Paul Rocks Still")
 End If
