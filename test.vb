@@ -8,4 +8,4 @@ If Paul <> "Hi" Then
 Console.WriteLine("Paul doesn't greet you")
 End If
 
-Dim Paul as string = "Person"
+Console.WriteLine("Paul says " & Paul)
