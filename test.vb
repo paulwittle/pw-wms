@@ -1,11 +1,20 @@
-Dim Paul As String = "Hi"
+public function Paul(byval input as boolean) as string
+	If input Then
+		return "Hi"
+	Else
+		return "Blank Expression"
+	End If
+end function
 
-If Paul = "Hi" Then
+If Paul(true) = "Hi" Then
 Console.WriteLine("Paul says hello")
 End If
 
-If Paul <> "Hi" Then
+If Paul(false) <> "Hi" Then
 Console.WriteLine("Paul doesn't greet you")
 End If
 
-Console.WriteLine("Paul says " & Paul)
+Console.WriteLine("Paul says " & Paul)<<<<<<< HEAD
+=======
+
+>>>>>>> master
