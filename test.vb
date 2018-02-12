@@ -16,4 +16,3 @@ End If
 
 Console.WriteLine("Paul says " & Paul(true))
 
-Console.WriteLine("Paul says " & Paul(true) fair enough)
