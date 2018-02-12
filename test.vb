@@ -16,4 +16,7 @@ End If
 
 Console.WriteLine("Paul says " & Paul(true))
 
+<<<<<<< HEAD
 Console.WriteLine("Paul says " & Paul(true) fair enough!)
+=======
+>>>>>>> dac31f18ffedf4748fa60f6ce34ff71ef6f65424
