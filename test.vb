@@ -1,9 +1,11 @@
-Dim PaulW3 As String = "Hi"
+Dim Paul As String = "Hi"
 
-If PaulW3 = "Hi" Then
-Console.WriteLine("Paul Rocks Still")
+If Paul = "Hi" Then
+Console.WriteLine("Paul says hello")
 End If
 
-If PaulW3 <> "Hi" Then
-Console.WriteLine("Paul Rocks")
+If Paul <> "Hi" Then
+Console.WriteLine("Paul doesn't greet you")
 End If
+
+Dim Paul as string = "Person"
