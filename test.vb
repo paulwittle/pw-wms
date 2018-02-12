@@ -14,4 +14,9 @@ If PaulSays(false) <> "Hi" Then
 Console.WriteLine("Paul doesn't greet you")
 End If
 
-Console.WriteLine("Paul says " & PaulSays(true))
+
+Console.WriteLine("Paul says " & Paul(true))
+
+
+Console.WriteLine("Paul says " & Paul(true) fair enough!)
+
