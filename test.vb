@@ -14,7 +14,4 @@ If Paul(false) <> "Hi" Then
 Console.WriteLine("Paul doesn't greet you")
 End If
 
-Console.WriteLine("Paul says " & Paul)<<<<<<< HEAD
-=======
-
->>>>>>> master
+Console.WriteLine("Paul says " & Paul(true))
